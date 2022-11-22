@@ -15,7 +15,7 @@ Database: MySQL
 INSTALLATION:
 - Clone the project
 ```sh
-$ git clone https://github.com/Anteste/symbnb.git
+$ git remote add origin https://github.com/Mahefa-MaH/smbnbSolid.git
 ```
 
 - Install dependencies
